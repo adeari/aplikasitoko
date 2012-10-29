@@ -1,0 +1,1 @@
+copy *.jasper ..\install_nodata\aplikasi
